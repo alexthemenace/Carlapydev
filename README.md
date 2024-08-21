@@ -1,2 +1,0 @@
-# Carlapydev
-carla ai
